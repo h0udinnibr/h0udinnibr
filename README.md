@@ -10,42 +10,42 @@
 
 <img
 align="left" 
-width="80px" 
+width="60px" 
 style="padding-right: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" 
 />
 
 <img 
 align="left" 
-width="80px" 
+width="60px" 
 style="padding-right: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" 
 />
 
 <img 
 align="left" 
-width="80px" 
+width="60px" 
 style="padding-right: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" 
 />
 
 <img 
 align="left" 
-width="80px" 
+width="60px" 
 style="padding-right: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
 />
 
 <img 
 align="left" 
-width="80px" 
+width="60px" 
 style="padding-right: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" 
 />
 
 <img 
 align="left" 
-width="80px" 
+width="60px" 
 style="padding-right: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" 
 />
