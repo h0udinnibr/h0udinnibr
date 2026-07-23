@@ -2,9 +2,8 @@
 
 - I’m currently learning Information Security. 
 - I’m looking to collaborate on projects envolving Python and Cybersecurity. 
-- I’m looking for help with Github and Python.
 - Ask me about Information Security.
-- Fun fact: I love to read.
+- Fun fact: I love play guitar.
 
 ## Languages and Tech
 
