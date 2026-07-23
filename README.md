@@ -53,7 +53,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-origi
 <br/>
 <br/>           
 
----
+
 
 ## Statistics
 <div align="center">
@@ -62,8 +62,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-origi
 [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=h0udinnibr&layout=donut&theme=dracula)](https://github.com/stats-organization/github-stats-extended)
 
 </div>
-
----
 
 
 ## My Contribution Graph
@@ -75,7 +73,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-origi
 </picture>
 
 
----
+
 
 <div align="center">
 
@@ -83,4 +81,3 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-origi
 
 </div>
 
----
