@@ -1,9 +1,8 @@
 ## Heya! I'm h0udinni!
 
-- I’m currently learning Information Security. 
+- I’m currently learning CyberSecurity. 
 - I’m looking to collaborate on projects envolving Python and Cybersecurity. 
-- Ask me about Information Security.
-- Fun fact: I love play guitar.
+- Fun facts: I don’t like soda and Mob Psycho 100 is my favorite anime
 
 ## Languages and Tech
 
