@@ -56,7 +56,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-origi
 ## Statistics
 <div align="center">
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=h0udinnibr&theme=dracula)](https://github.com/stats-organization/github-stats-extended)
+<!--[[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=h0udinnibr&theme=dracula)](https://github.com/stats-organization/github-stats-extended)-->
 [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=h0udinnibr&layout=donut&theme=dracula)](https://github.com/stats-organization/github-stats-extended)
 
 </div>
