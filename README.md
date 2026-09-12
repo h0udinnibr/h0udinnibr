@@ -14,7 +14,12 @@ And I also share what I learn about design engineering on my [Linkedin](https://
 - I don’t like soda.
 - Hobbies: Play guitar and learn robotics.
 
-
+### My Contribution Graph
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="h0udinnibr's GitHub profile" src="dark_mode.svg" />
+</picture>
 
 <div align="center">
 
