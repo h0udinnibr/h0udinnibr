@@ -1,9 +1,12 @@
-## Heya! I'm h0udinni!
+### Heya! I'm h0udinni! <img src="https://slackmojis.com/emojis/5197-party_blob/download" width="25"/>
 
-I’m a Júnior Cybersecurity Analyst based in Brazil.
+Cybersecurity analyst based in Brazil, with hands-on experience in cyber defense operations.
+
 I design automated cybersecurity tools and simple malwares. 
-And I also share what I learn about design engineering.
+
 Most projects are built with Python, Powershell and Bash.
+
+And I also share what I learn about design engineering on my [Linkedin](https://www.linkedin.com/in/nicolas-santos-security/).
 
 #### Fun facts
 - I don’t like soda;
