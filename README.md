@@ -25,5 +25,6 @@ And I also share what I learn about design engineering on my [Linkedin](https://
 <div align="center">
 
   ![](https://api.visitorbadge.io/api/VisitorHit?user=h0udinnibr&repo=h0udinnibrColor=%237B1E7A)
+  ![GitHub stars](https://img.shields.io/github/stars/h0udinnibr?style=for-the-badge)
 
 </div>
