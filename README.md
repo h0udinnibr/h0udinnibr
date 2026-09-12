@@ -4,13 +4,14 @@ Cybersecurity analyst based in Brazil, with hands-on experience in cyber defense
 
 I design automated cybersecurity tools and simple malwares. 
 
-Most projects are built with Python, Powershell and Bash.
+Most projects are built with Python, Java, Powershell and Bash.
+
+Languages: English (B1), Spanish (A2).
 
 And I also share what I learn about design engineering on my [Linkedin](https://www.linkedin.com/in/nicolas-santos-security/).
 
 #### Fun facts
-- I don’t like soda;
-- Mob Psycho 100 is my favorite anime.
+- I don’t like soda.
 - Hobbies: Play guitar and learn robotics.
 
 ### My Contribution Graph
@@ -23,4 +24,3 @@ And I also share what I learn about design engineering on my [Linkedin](https://
 <div align="center">
 
   ![](https://api.visitorbadge.io/api/VisitorHit?user=h0udinnibr&repo=h0udinnibrColor=%237B1E7A)
-  ![GitHub stars](https://img.shields.io/github/stars/h0udinnibr?style=for-the-badge)
