@@ -14,6 +14,14 @@ And I also share what I learn about design engineering on my [Linkedin](https://
 - I don’t like soda.
 - Hobbies: Play guitar and learn robotics.
 
+#### Contact
+
+Personal email: [ny68811@gmail.com](mailto:ny638811@gmail.com)
+
+LinkedIn: [nicolas-santos-security](https://www.linkedin.com/in/nicolas-santos-security/)
+
+Discord: b0cchibr
+
 ### My Contribution Graph
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
