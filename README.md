@@ -13,18 +13,14 @@ And I also share what I learn about design engineering on my [Linkedin](https://
 - Mob Psycho 100 is my favorite anime.
 - Hobbies: Play guitar and learn robotics.
 
-</div>
-
-## My Contribution Graph
+### My Contribution Graph
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/h0udinnibr/h0udinnibr/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/h0udinnibr/h0udinnibr/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/h0udinnibr/h0udinnibr/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="h0udinnibr's GitHub profile" src="dark_mode.svg" />
 </picture>
 
 <div align="center">
 
   ![](https://api.visitorbadge.io/api/VisitorHit?user=h0udinnibr&repo=h0udinnibrColor=%237B1E7A)
   ![GitHub stars](https://img.shields.io/github/stars/h0udinnibr?style=for-the-badge)
-
-</div>
